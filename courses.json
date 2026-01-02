@@ -1,0 +1,30 @@
+{
+    "DSC": {
+        "BA (Arts)": {
+            "Pol Sci Hons": [
+                {
+                    "title": "Intro to Political Theory",
+                    "type": "video",
+                    "link": "https://www.youtube.com/watch?v=mpG0t8Ww0W0"
+                }
+            ]
+        },
+        "B.Com (Commerce)": {
+            "B.Com Hons": [
+                {
+                    "title": "Business Laws",
+                    "type": "video",
+                    "link": "https://youtu.be/Xf-Sq9c7C6E?si=aarmE2BTyadxfrKP"
+                }
+            ]
+        }
+    },
+    "GE": {
+        "Common": {
+            "GE English": []
+        }
+    },
+    "VAC": {},
+    "AEC": {},
+    "SEC": {}
+}
